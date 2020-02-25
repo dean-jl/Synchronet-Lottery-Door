@@ -7,3 +7,5 @@ for anyone that may find it useful.  I am not/was not a developer.  I am sure th
 won't win any prizes.  Provided as-is.
 
 I was using Borland C++ for DOS version 3.x I believe.
+
+This also requires the Synchronet BBS xsdk.h header file.
